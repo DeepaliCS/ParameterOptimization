@@ -2,7 +2,7 @@
 # About
 Parameter optimisation of the angle and distance a canon should shoot in order to reach the given target of combat.
 
-Different range of datasets were tests to create a minimum spanning tree, and the algorithms were used to find the quickest way possible from point A to point B
+This was part of a university project.
 
 ## Creation Info
 The project was created in Eclipse IDE, written in Java.
